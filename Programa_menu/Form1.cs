@@ -66,22 +66,22 @@ namespace Programa_menu
 
         private void brunoSantanaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("(RA: 2215112684 - Nome: Bruno Santana)", "RA | Nome", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+            MessageBox.Show("RA: 2215112684 - Nome: Bruno Santana", "RA | Nome", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
         }
 
         private void caiqueReisToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("(RA: 2215110016 - Nome: Caique Reis)", "RA | Nome", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+            MessageBox.Show("RA: 2215110016 - Nome: Caique Reis", "RA | Nome", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
         }
 
         private void larissaTayaneToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("(RA: 2215202786 - Nome: Larissa Tayane)", "RA | Nome", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+            MessageBox.Show("RA: 2215202786 - Nome: Larissa Tayane", "RA | Nome", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
         }
 
         private void wagnerVitorToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("(RA: 2215101553 - Nome: Wagner Vitor)", "RA | Nome", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+            MessageBox.Show("RA: 2215101553 - Nome: Wagner Vitor", "RA | Nome", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
             //MessageBox.Show("(RA: 2215101553 - Nome: Wagner Vitor)", "RA | Nome", MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk); - MessageBoxButtons.OKCancel - serve para inserir botão de "OK" e "Cancelar" à caixa de mensagem de informação
         }
     }
